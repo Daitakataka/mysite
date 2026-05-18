@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>PDF公開ページ</title>
+</head>
+<body>
+  <h1>PDF一覧</h1>
+  
+  <ul>
+    <li>sample.pdfPDFを見る</a></li>
+  </ul>
+
+</body>
+</html>
